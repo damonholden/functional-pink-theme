@@ -1,0 +1,43 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#b63978",
+    "activityBar.background": "#7f2653",
+    "sideBar.background": "#7f2653",
+    "minimap.background": "#5b1e3c",
+    "editor.background": "#601b3e",
+    "editorGroupHeader.tabsBackground": "#280d1a",
+    "tab.inactiveBackground": "#3d1428",
+    "statusBar.background": "#ed308f",
+    "statusBarItem.remoteBackground": "#ff90c8",
+    "list.activeSelectionBackground": "#b63978",
+    "list.focusOutline": "#b63978"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "storage",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "constant.language",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "support.class.builtin",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      }
+    ]
+  }
+}
